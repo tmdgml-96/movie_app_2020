@@ -2,8 +2,11 @@ import React from 'react';
 import axios from 'axios';
 import Movie from '../components/Movie';
 import './Home.css';
+import loadingImg from '../images/loading.gif';
+
 
 class Home extends React.Component {
+  
   state = {
     isLoading: true,
     movies: []
@@ -24,7 +27,7 @@ class Home extends React.Component {
   }
 
   componentDidMount() {
-    this.getMovies();
+    this.getMovies();    
   }
 
   render() {
@@ -33,7 +36,7 @@ class Home extends React.Component {
       <section className="container">
         {isLoading ? (
           <div className="loader">
-            <span className="loader__text">Loading...</span>
+            <img src = {loadingImg} alt = "Loading"></img>
           </div>
         ) : (
             <div className="movies">

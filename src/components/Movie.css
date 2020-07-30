@@ -54,3 +54,7 @@
     margin-right: 10px;
     font-size:14px;
 }
+
+.up-on-scroll{
+    transition : all 0.7s;
+}
