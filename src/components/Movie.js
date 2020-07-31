@@ -57,9 +57,6 @@ function isElementUnderBottom(elem, triggerDiff) {
     ticking = false;
 
     const elems = document.querySelectorAll('.up-on-scroll');
-   // setTimeout(function() {
-     //   console.log('Works!');
-     // }, 10000);
 
     elems.forEach(elem => {
       if (isElementUnderBottom(elem, -20)) {

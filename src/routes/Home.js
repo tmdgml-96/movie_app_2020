@@ -2,7 +2,7 @@ import React from 'react';
 import axios from 'axios';
 import Movie from '../components/Movie';
 import './Home.css';
-import loadingImg from '../images/loading.gif';
+import loadingImg from '../images/Chunk_Loding.gif';
 
 
 class Home extends React.Component {
@@ -36,7 +36,7 @@ class Home extends React.Component {
       <section className="container">
         {isLoading ? (
           <div className="loader">
-            <img src = {loadingImg} alt = "Loading"></img>
+            <img src = {loadingImg} alt = "Loading" ></img>
           </div>
         ) : (
             <div className="movies">
