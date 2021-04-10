@@ -1,5 +1,6 @@
-# 영화 평점 웹 서비스 WITH 노마드 코더 『Do it! 클론 코딩 영화 평점 웹서비스』
-### from Seunghee Park
+# 영화 평점 웹 서비스 
+### WITH 노마드 코더 『Do it! 클론 코딩 영화 평점 웹서비스』
+### FROM Seunghee Park
 > React JS Fundamentals Course 2020
     
 ## About WeatherYouAre
