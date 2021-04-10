@@ -23,3 +23,7 @@ React JS Fundamentals Course 2020
 
 ![image](https://user-images.githubusercontent.com/53897151/114272220-3f993b00-9a50-11eb-8609-6c208d585a23.png)
 
+
+배운점
+- 로딩 페이지의 이미지로 사용자가 페이지를 기다리는 지루함을 해소할 수 있음
+- 앱/웹 개발시 완성된 UI/UX는 수많은 수정과 노력으로 만들어짐
