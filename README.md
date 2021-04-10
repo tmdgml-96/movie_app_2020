@@ -16,4 +16,4 @@ React JS Fundamentals Course 2020
 
 스스로 추가해본 기능
 - ABOUT : 소개글
-- 스크롤 페이드인 효과 (네이버 홈페이지 참고)
+- 스크롤 페이드인 효과 ([네이버 홈페이지 참고](https://campaign.naver.com/recruit2020/checkpoint/))
