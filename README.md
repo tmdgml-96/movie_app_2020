@@ -5,7 +5,9 @@
 
 React JS Fundamentals Course 2020
 
-![image](https://user-images.githubusercontent.com/53897151/114271853-766e5180-9a4e-11eb-9179-ae2f0067ed3c.png)
+![image](https://user-images.githubusercontent.com/53897151/114272332-bc2c1980-9a50-11eb-9e5b-9661282c9d4f.png)   
+
+
 ![image](https://user-images.githubusercontent.com/53897151/114271865-82f2aa00-9a4e-11eb-913c-44d679bfe442.png)
 
 참고한 책 : 노마드코더
