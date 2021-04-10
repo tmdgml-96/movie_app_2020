@@ -10,12 +10,12 @@ React JS Fundamentals Course 2020
 
 참고한 책 : 노마드코더
 
-책을 보며 구현
+책을 보며 구현 / [구현 예시 웹 사이트](https://nomadcoders.github.io/movie_app_2019/#/)
 - API parsing
 - 디자인
 - MVVP 패턴 적용
 
-스스로 추가해본 기능
+스스로 추가해본 기능 / [내가 다듬어본 웹 사이트](https://tmdgml-96.github.io/movie_app_2020/#/)
 - ABOUT : 소개글
 - 스크롤 페이드인 효과 (reference : [naver_openclass](https://campaign.naver.com/recruit2020/checkpoint/))
 
