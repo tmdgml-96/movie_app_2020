@@ -1,6 +1,7 @@
-# Movie App 2020
-# 영화 평점 웹 서비스 - 클론코딩
-# from Seunghee Park
+## Movie App 2020
+## 영화 평점 웹 서비스 - 클론코딩
+### from Seunghee Park
+### 참고한 책 : 노마드코더
 
 React JS Fundamentals Course 2020
 
@@ -16,4 +17,4 @@ React JS Fundamentals Course 2020
 
 스스로 추가해본 기능
 - ABOUT : 소개글
-- 스크롤 페이드인 효과 ([네이버 홈페이지 참고](https://campaign.naver.com/recruit2020/checkpoint/))
+- 스크롤 페이드인 효과 (reference : [naver_openclass](https://campaign.naver.com/recruit2020/checkpoint/))
